@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Kindly install express to install all the node dependencies and modules, then you're good to go with the project.
+
+Happy Programming!!
+
 ## Available Scripts
 
 In the project directory, you can run:
